@@ -3,5 +3,5 @@
 \*Flutter SnackBar
 
 <hr/>
-<img src="Snackbar.png"></img>
+<img src="SnackBar.png"></img>
 <hr/>
